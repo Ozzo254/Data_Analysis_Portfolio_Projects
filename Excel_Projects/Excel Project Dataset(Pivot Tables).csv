@@ -1,0 +1,23 @@
+BIKE_SALES_DASHBOARD,,,,,,,,,,,,,,,,PIVOT_TABLES,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,Average of Income,Purchased Bike,,,,Count of Purchased Bike,Purchased Bike,,
+,,,,,,,,,,,,,,,,Gender,No,Yes,Grand Total,,Age Bracket,No,Yes,Grand Total
+,,,,,,,,,,,,,,,,Female,"$53,440","$55,774","$54,581",,"20+, Youth",71,39,110
+,,,,,,,,,,,,,,,,Male,"$56,208","$60,124","$58,063",,"31+, Adult",318,383,701
+,,,,,,,,,,,,,,,,Grand Total,"$54,875","$57,963","$56,360",,"55+, Aged",130,59,189
+,,,,,,,,,,,,my_pivot_tables,,,,,,,,,Grand Total,519,481,1000
+,,,,,,,,,,,,,,,,Count of Purchased Bike,Purchased Bike,,,,,,,
+,,,,,,,,,,,,,,--->,,Commute Distance,No,Yes,Grand Total,,,,,
+,,,,,,,,,,,,,,,,0-1 Miles,166,200,366,,,,,
+,,,,,,,,,,,,,,,,1-2 Miles,92,77,169,,,,,
+,,,,,,,,,,,,,,,,2-5 Miles,67,95,162,,,,,
+,,,,,,,,,,,,,,,,5-10 Miles,116,76,192,,,,,
+,,,,,,,,,,,,,,,,+10 Miles,78,33,111,,,,,
+,,,,,,,,,,,,,,,,Grand Total,519,481,1000,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,Count of Purchased Bike,Purchased Bike,,,,,,,
+,,,,,,,,,,,,,,,,Gender,No,Yes,Grand Total,,,,,
+,,,,,,,,,,,,,,,,Female,250,239,489,,,,,
+,,,,,,,,,,,,,,,,Male,269,242,511,,,,,
+,,,,,,,,,,,,,,,,Grand Total,519,481,1000,,,,,
